@@ -1,0 +1,16 @@
+{
+"firstname" :"vishnu",
+"lastname": "priya",
+"address":[
+{
+"street": "abc",
+"city": "chennai",
+"state": "Tamilnadu",
+},
+{
+"street": "xyz",
+"city": "salem",
+"state": "Tamilnadu",
+}
+]
+}
